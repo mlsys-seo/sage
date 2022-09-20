@@ -19,3 +19,7 @@ build/tools/converter -t sample_input/facebook.txt -o sample_input/facebook.sage
 ```sh
 build/algs/topk -f sample_input/facebook.sage -s 1000 -t 16 -m 3 -o c 128
 ```
+
+
+## Publication
+Eunjae Lee, Sam H. Noh, Jiwon Seo, SAGE: A System for Uncertain Network Analysis, in Proceedings of the International Conference on Very Large Data Bases (VLDB), 2022--2023.
