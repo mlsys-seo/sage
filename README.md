@@ -17,7 +17,7 @@ build/tools/converter -t sample_input/facebook.txt -o sample_input/facebook.sage
 ```
 2. Runing example alogrithm
 ```sh
-build/algs/topk -f sample_input/facebook.sage -s 1000 -t 16 -m 3 -o c 128
+build/algs/topk -f sample_input/facebook.sage -s 1000 -t 16 -c 128
 ```
 
 
